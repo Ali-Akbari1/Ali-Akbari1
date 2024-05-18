@@ -1,4 +1,14 @@
-### Hi there 👋
+Student @ The University of Calgary
+
+👨‍💻 Computer Science
+🔭 I’m currently working on Projects!
+👯 I’m looking to collaborate on any Projects!
+📫 How to reach me:
+    alimustanserakbari@gmail.com
+    https://www.linkedin.com/in/ali-akbari-a2468227b/
+😄 Check out my website: 
+    https://www.alimakbari.net
+
 
 <!--
 **Ali-Akbari1/Ali-Akbari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

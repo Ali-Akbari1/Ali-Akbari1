@@ -9,7 +9,8 @@ Student At The University of Calgary
         <a href="https://www.linkedin.com/in/ali-akbari-a2468227b/">LinkedIn</a>
         
 😄 Check out my website and resume!:   
-    https://www.alimakbari.net  
+    <a href="https://www.alimakbari.net">Website</a>  
+    <a href="[https://www.alimakbari.net/resume.pdf](https://github.com/Ali-Akbari1/Ali-Akbari1/blob/main/Ali%20Akbari%20Computer%20Science%20Resume.pdf)">Resume</a> 
 
 
 <!--

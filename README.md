@@ -1,8 +1,8 @@
-Student @ The University of Calgary, Second Year
+Student At The University of Calgary
 
 👨‍💻 Computer Science     
-🔭 I’m currently working on Projects!  
-👯 I’m looking to collaborate on any Projects!  
+🔭 I’m currently working on projects!  
+👯 I’m looking to learn as much as possible!  
 
 📫 How to reach me:  
         alimustanserakbari@gmail.com  

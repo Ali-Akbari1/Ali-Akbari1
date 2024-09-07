@@ -6,7 +6,7 @@ Student At The University of Calgary
 
 📫 How to reach me:  
         alimustanserakbari@gmail.com  
-        https://www.linkedin.com/in/ali-akbari-a2468227b/ 
+        <a href="https://www.linkedin.com/in/ali-akbari-a2468227b/">LinkedIn</a>
         
 😄 Check out my website:   
     https://www.alimakbari.net  

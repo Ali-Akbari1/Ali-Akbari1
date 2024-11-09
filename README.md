@@ -10,7 +10,7 @@ Student At The University of Calgary
         
 😄 Check out my website and resume!:   
     <a href="https://www.alimakbari.net">Website</a>  
-    <a href="https://github.com/Ali-Akbari1/Ali-Akbari1/blob/main/Ali%20Akbari%20Computer%20Science%20Resume.pdf">Resume</a> 
+    <a href="https://github.com/Ali-Akbari1/Ali-Akbari1/blob/main/Ali%20Akbari%20Resume.pdf">Resume</a> 
 
 
 <!--

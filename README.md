@@ -8,8 +8,7 @@ Student At The University of Calgary
         alimustanserakbari@gmail.com  
         <a href="https://www.linkedin.com/in/ali-akbari-a2468227b/">LinkedIn</a>
         
-😄 Check out my website and resume!:   
-    <a href="https://www.alimakbari.net">Website</a>  
+😄 Check out my resume!:   
     <a href="https://github.com/Ali-Akbari1/Ali-Akbari1/blob/main/Ali%20Akbari%20Resume.pdf">Resume</a> 
 
 
